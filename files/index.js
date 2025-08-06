@@ -6,9 +6,9 @@ const UUID = process.env.UUID || '1df00c71-dddb-4f7d-aada-2257081d1474'; //
 const NEZHA_SERVER = process.env.NEZHA_SERVER || '';     
 const NEZHA_PORT = process.env.NEZHA_PORT || '';                     //
 const NEZHA_KEY = process.env.NEZHA_KEY || '';
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';     //
-const ARGO_AUTH = process.env.ARGO_AUTH || '';
-const CFIP = process.env.CFIP || 'na.ma';
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'choreo-5.enthusiasm.eu.org';     //
+const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiZDNhY2U1Y2MxNGIxZWYxYjYwZDMwYTAwMjBkNWY0NWUiLCJ0IjoiOWQxZTM5ZTAtMzExZC00MTY0LTgwZDUtODFjNzMzYzMxMWM1IiwicyI6Ik1EUmlOMk00WWprdE1XTXlOaTAwTXpJMkxUaG1ZV1F0TWpsa01tUXpaalU1TldJeSJ9';
+const CFIP = process.env.CFIP || 'japan.com';
 const NAME = process.env.NAME || 'Choreo';
 
 // root route
